@@ -1,7 +1,11 @@
 Rails.application.routes.draw do
-  resources :users do
-    collection do
-      post "login"
+  namespace :api do
+    namespace :v1 do
+      resources :users do
+        collection do
+          post "login"
+        end
+      end
     end
   end
 end
