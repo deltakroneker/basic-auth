@@ -1,24 +1,5 @@
-# README
+# Basic Auth API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Collection of best ideas and practices in writting simple but functional API that supports basic user creation and JWT authentication.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+🚧 Work in progress...
