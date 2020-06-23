@@ -6,6 +6,12 @@ Rails.application.routes.draw do
           post "login"
         end
       end
+
+      resources :images, only: [] do
+        collection do
+          post "upload"
+        end
+      end
     end
   end
 end

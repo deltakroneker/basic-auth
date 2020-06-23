@@ -1,0 +1,18 @@
+development:
+  cloud_name: basicauth
+  api_key: "379491918447287"
+  api_secret: 3pD8x3Eq0mAH3OoypbBhA1-xt-w
+  enhance_image_tag: true
+  static_file_support: false
+production:
+  cloud_name: basicauth
+  api_key: "379491918447287"
+  api_secret: 3pD8x3Eq0mAH3OoypbBhA1-xt-w
+  enhance_image_tag: true
+  static_file_support: true
+test:
+  cloud_name: basicauth
+  api_key: "379491918447287"
+  api_secret: 3pD8x3Eq0mAH3OoypbBhA1-xt-w
+  enhance_image_tag: true
+  static_file_support: false
